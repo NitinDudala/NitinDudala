@@ -4,7 +4,7 @@
 
 Software Development Engineer in Test (SDET) with **6 years of experience** designing, developing, and maintaining automation solutions for enterprise applications.
 
-My expertise includes **Playwright, Selenium WebDriver, REST Assured, Java, TypeScript, SQL, API Testing, UI Automation, Backend Validation, and CI/CD**. I enjoy building scalable automation frameworks and delivering reliable software through end-to-end quality engineering.
+I build scalable UI and API automation frameworks for enterprise applications using **Playwright, Selenium WebDriver, REST Assured, Java, TypeScript, SQL, API Testing, UI Automation, Backend Validation, and CI/CD**. My focus is on delivering reliable automation, backend validation, and end-to-end quality engineering across modern web applications and microservices.
 
 ---
 
@@ -73,7 +73,7 @@ My expertise includes **Playwright, Selenium WebDriver, REST Assured, Java, Type
 
 ---
 
-# Featured Repository
+# Featured Project
 
 ## API Test Automation Framework
 
@@ -92,9 +92,9 @@ A reusable enterprise-grade API automation framework built using Java, REST Assu
 - Reusable API Client Architecture
 - Environment-Based Configuration
 
-🔗 Repository
+### Source Code
 
-**https://github.com/NitinDudala/api-test-automation-framework**
+🔗 https://github.com/NitinDudala/api-test-automation-framework
 
 ---
 
@@ -114,20 +114,6 @@ A reusable enterprise-grade API automation framework built using Java, REST Assu
 
 ---
 
-## Core Expertise
-
-- UI Automation
-- API Automation
-- Backend Validation
-- Database Testing
-- End-to-End Testing
-- Microservices Testing
-- Cross-Browser Testing
-- Regression Testing
-- Release Validation
-- Root Cause Analysis
-
----
 
 ## Connect
 
