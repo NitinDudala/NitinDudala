@@ -1,16 +1,138 @@
-## Hi there 👋
+# Hi 👋, I'm Nitin Dudala
 
-<!--
-**NitinDudala/NitinDudala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Development Engineer in Test (SDET)
 
-Here are some ideas to get you started:
+Software Development Engineer in Test (SDET) with **6 years of experience** designing, developing, and maintaining automation solutions for enterprise applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My expertise includes **Playwright, Selenium WebDriver, REST Assured, Java, TypeScript, SQL, API Testing, UI Automation, Backend Validation, and CI/CD**. I enjoy building scalable automation frameworks and delivering reliable software through end-to-end quality engineering.
+
+---
+
+## About Me
+
+- 💼 6 years of experience in Software Test Automation
+- 📍 Hyderabad, India
+- 🔹 Expertise in UI Automation, API Testing, Backend Validation, and Database Testing
+- 🔹 Experienced in Playwright, Selenium WebDriver, REST Assured, Java, TypeScript, and SQL
+- 🔹 Strong background in Automation Framework Design, Microservices Testing, and Release Validation
+- 🔹 Experienced in Agile Scrum, CI/CD, and enterprise quality engineering
+
+---
+
+## Tech Stack
+
+### Languages
+
+- Java
+- TypeScript
+- JavaScript
+- SQL
+
+### UI Automation
+
+- Playwright
+- Selenium WebDriver
+
+### API Automation
+
+- REST Assured
+- Postman
+- Swagger / OpenAPI
+- ReadyAPI (SoapUI)
+- OAuth2 Authentication
+
+### Test Frameworks
+
+- Cucumber (BDD)
+- JUnit 5
+- TestNG
+- Maven
+
+### CI/CD & DevOps
+
+- GitHub Actions
+- Azure DevOps
+- Git
+- Docker
+
+### Database & Backend
+
+- SQL Server
+- SQL
+- Stored Procedures
+- Backend Validation
+- Data Reconciliation
+- Azure Service Bus
+
+### Monitoring & Debugging
+
+- Splunk
+- Dynatrace
+- Browser DevTools
+- Fiddler
+
+---
+
+# Featured Repository
+
+## API Test Automation Framework
+
+A reusable enterprise-grade API automation framework built using Java, REST Assured, Cucumber BDD, and JUnit 5.
+
+### Highlights
+
+- REST Assured API Automation
+- OAuth2 Token Management
+- Cucumber BDD
+- JUnit 5
+- GitHub Actions CI/CD
+- Allure Reporting
+- JSON Schema Validation
+- Parallel Test Execution
+- Reusable API Client Architecture
+- Environment-Based Configuration
+
+🔗 Repository
+
+**https://github.com/NitinDudala/api-test-automation-framework**
+
+---
+
+## Engineering Practices
+
+- Automation Framework Design
+- Layered Architecture
+- SOLID Principles
+- Dependency Injection (PicoContainer)
+- Builder Pattern
+- Page Object Model (POM)
+- Data-Driven Testing
+- JSON Schema Validation
+- Clean Code
+- Agile Scrum
+- Continuous Integration
+
+---
+
+## Core Expertise
+
+- UI Automation
+- API Automation
+- Backend Validation
+- Database Testing
+- End-to-End Testing
+- Microservices Testing
+- Cross-Browser Testing
+- Regression Testing
+- Release Validation
+- Root Cause Analysis
+
+---
+
+## Connect
+
+📧 **Email:** nitindudala3@gmail.com
+
+📍 **Location:** Hyderabad, India
+
+🐙 **GitHub:** https://github.com/NitinDudala
